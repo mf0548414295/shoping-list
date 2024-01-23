@@ -1,0 +1,18 @@
+.productOrderSummaryContainer{
+    padding:30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+}
+
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+}
+.product{
+    display: flex;
+    gap:5px;
+}

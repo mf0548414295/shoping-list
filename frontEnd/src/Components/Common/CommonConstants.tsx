@@ -1,0 +1,10 @@
+export const PRODUCT_PLACEHOLDER='מוצר';
+export const PRODUCT_CATEGORY='קטגוריה';
+export const PRODUCT_ADD_BUTTON='הוסף';
+export const PRODUCTS_TOTAL='סה"כ';
+export const PRODUCTS='מוצרים';
+export const FINISH_ORDER='סיים הזמנה';
+export const FULL_NAME='שם מלא';
+export const FULL_ADDRESS='כתובת';
+export const EMAIL='כתובת אימייל';
+export const ORDER_SUBMIT='אשר הזמנה';
